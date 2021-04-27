@@ -9,7 +9,7 @@ You may be asking yourself, "is JavaScript the only way to create custom GitHub 
 Currently, there are **two** supported ways to create your own GitHub Actions:
 
 - [Docker container actions](https://help.github.com/en/actions/automating-your-workflow-with-github-actions/about-actions#docker-container-actions)
-- [JavaScript actions](https://help.github.com/en/actions/automating-your-workflow-with-github-actions/about-actions#javascript-actions)
+- [JavaScript actions - JS](https://help.github.com/en/actions/automating-your-workflow-with-github-actions/about-actions#javascript-actions)
 
 As you can see we aren't necessarily limited to JavaScript even though it is the focal point for this course.
 
